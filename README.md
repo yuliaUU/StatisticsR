@@ -1,6 +1,6 @@
 # StatisticsR
 
-teh materials are taken from Statistical tools for high-throughput data analysis ([STHDA](http://www.sthda.com/english/))
+The materials are taken from Statistical tools for high-throughput data analysis ([STHDA](http://www.sthda.com/english/))
 
 ## Comparing Means in R
 
