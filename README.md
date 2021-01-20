@@ -4,9 +4,9 @@ The materials are taken from Statistical tools for high-throughput data analysis
 
 **Section Summary:**
 
-### Normailty Test in R
-### Statistical Tests and Assumptions
-### Comparing Means in R
+### [Normailty Test in R](https://github.com/yuliaUU/StatisticsR/blob/main/02-00-NormalityTestR.pdf)
+### [Statistical Tests and Assumptions](https://github.com/yuliaUU/StatisticsR/blob/main/03-00-StatisticalTests-andAssumptions.pdf)
+### [Comparing Means in R](https://github.com/yuliaUU/StatisticsR/tree/main/ComparingMeansR)
 - Comparing one-sample mean to a standard known mean:
   - One-Sample T-test (parametric)
   - One-Sample Wilcoxon Test (non-parametric)
