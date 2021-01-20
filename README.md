@@ -2,9 +2,9 @@
 
 The materials are taken from Statistical tools for high-throughput data analysis ([STHDA](http://www.sthda.com/english/))
 
-## Comparing Means in R
+**Section Summary:**
 
-Section Summary:
+## Comparing Means in R
 
 - Comparing one-sample mean to a standard known mean:
   - One-Sample T-test (parametric)
