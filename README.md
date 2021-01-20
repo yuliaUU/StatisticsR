@@ -5,7 +5,7 @@ The materials are taken from Statistical tools for high-throughput data analysis
 **Section Summary:**
 
 ### Normailty Test in R
-
+### Statistical Tests and Assumptions
 ### Comparing Means in R
 - Comparing one-sample mean to a standard known mean:
   - One-Sample T-test (parametric)
