@@ -2,8 +2,9 @@
 
 teh materials are taken from Statistical tools for high-throughput data analysis ([STHDA](http://www.sthda.com/english/))
 
+## Comparing Means in R
 
-## Comparing MEans in R
+Section Summary:
 
 - Comparing one-sample mean to a standard known mean:
   - One-Sample T-test (parametric)
@@ -20,3 +21,4 @@ teh materials are taken from Statistical tools for high-throughput data analysis
     - Two-Way ANOVA Test in R
     - MANOVA Test in R: Multivariate Analysis of Variance
   - Kruskal-Wallis Test in R (non parametric alternative to one-way ANOVA)
+
