@@ -5,6 +5,7 @@ The materials are taken from Statistical tools for high-throughput data analysis
 **Section Summary:**
 
 ### [Normailty Test in R](https://github.com/yuliaUU/StatisticsR/blob/main/02-00-NormalityTestR.pdf)
+Many of statistical tests including correlation, regression, t-test, and analysis of variance (ANOVA) assume some certain characteristics about the data. They require the data to follow a normal distribution or Gaussian distribution. These tests are called parametric tests, because their validity depends on the distribution of the data.
 ### [Statistical Tests and Assumptions](https://github.com/yuliaUU/StatisticsR/blob/main/03-00-StatisticalTests-andAssumptions.pdf)
 ### [Comparing Means in R](https://github.com/yuliaUU/StatisticsR/tree/main/ComparingMeansR)
 - Comparing one-sample mean to a standard known mean:
