@@ -1,6 +1,8 @@
 # StatisticsR
 
-** Very nice tutorials designed in UBC - [Visualizing statistics](https://www.zoology.ubc.ca/~whitlock/Kingfisher/KFhomepage.htm)**
+## Very nice tutorials designed in UBC
+
+** [Visualizing statistics](https://www.zoology.ubc.ca/~whitlock/Kingfisher/KFhomepage.htm)**
 
 [Sampling from a normal distribution](https://www.zoology.ubc.ca/~whitlock/Kingfisher/SamplingNormal.htm) - This app demonstrates the concept of a sampling distribution of an estimate, using the example of a mean of a normally distributed variable. It also reinforces the idea of a histogram.
 
@@ -35,12 +37,15 @@ Learning objectives:
 - Show the meaning of power.
 - Investigate the effects of sample size on power.
 
-[]Robustness and power of the t test](https://shiney.zoology.ubc.ca/whitlock/RobustnessOfT/)
+[Robustness and power of the t test](https://shiney.zoology.ubc.ca/whitlock/RobustnessOfT/)
 
 [Guessing correlation coefficients](https://shiney.zoology.ubc.ca/whitlock/Guessing_correlation/) - The correlation coefficient (r) describes the strength and direction of the association between two numerical variables. The goal of this page is to allow you to develop an intuition about how strong an association is implied by a given correlation coefficient. Each time you press the button marked "Simulate new data", the app will randomly choose a new correlation coefficient and randomly draw 30 data points with that r. Choose which of the three values best matches the correlation coefficient of the new data.
 
 [Vizualizing residuals](https://shiney.zoology.ubc.ca/whitlock/Residuals/)
 _________________________________________________________________________________________________________________________
+
+## Comparing Means in R 
+
 The materials are taken from Statistical tools for high-throughput data analysis ([STHDA](http://www.sthda.com/english/))
 
 **Section Summary:**
