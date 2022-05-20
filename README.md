@@ -2,7 +2,7 @@
 
 ## Very nice tutorials designed in UBC
 
-** [Visualizing statistics](https://www.zoology.ubc.ca/~whitlock/Kingfisher/KFhomepage.htm)**
+**[Visualizing statistics](https://www.zoology.ubc.ca/~whitlock/Kingfisher/KFhomepage.htm)**
 
 [Sampling from a normal distribution](https://www.zoology.ubc.ca/~whitlock/Kingfisher/SamplingNormal.htm) - This app demonstrates the concept of a sampling distribution of an estimate, using the example of a mean of a normally distributed variable. It also reinforces the idea of a histogram.
 
